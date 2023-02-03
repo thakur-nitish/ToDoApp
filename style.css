@@ -1,0 +1,32 @@
+.heading {
+  text-align: center;
+  text-decoration: underline;
+}
+
+#btnG {
+  margin-top: 45px;
+  width: 600px;
+  margin-left: 400px;
+}
+
+#message {
+  text-align: center;
+  font-size: 24px;
+}
+
+.error {
+  color: red;
+}
+
+.success {
+  color: green;
+}
+
+#root {
+  margin-left: 416px;
+}
+
+.list {
+  color: blue;
+  font-size: 28px;
+}
